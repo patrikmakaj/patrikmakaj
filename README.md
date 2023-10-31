@@ -23,7 +23,7 @@ Pozdrav, ja sam [Patrik Makaj](https://www.linkedin.com/in/patrik-makaj-238a2821
 
 ### Edukacija
 
-- 🎓 Završavam diplomski studij Računalnih Znanosti na [Sveučilištu](https://www.university.com).
+- 🎓 Završavam diplomski studij Računalnih Znanosti na [Fakultetu elektrotehnike, računarstva i informacijskih tehnologija]([https://www.university.com](https://www.ferit.unios.hr/)).
 
 ### Hobi
 
