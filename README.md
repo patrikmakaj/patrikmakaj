@@ -11,7 +11,8 @@ Pozdrav, ja sam [Patrik Makaj](https://www.linkedin.com/in/patrik-makaj-238a2821
 <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/patrikmakaj/patrikmakaj/main/assets/cobeDiploma.jpg" width="150" style="margin-right: 20px;">
 </div>
- # Shows App
+
+### Shows App
  
 [Show App](https://github.com/patrikmakaj/shows-app) je iOS aplikacija kreirana u Swift programskom jeziku, koja omogućava korisnicima da istraže različite TV emisije i filmove kroz [API](https://www.tvmaze.com/api). Aplikacija ima četiri glavna viewa: Detail View, Home View, Favorites View i Search View.
 <div style="text-align: center;">
