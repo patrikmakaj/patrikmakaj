@@ -12,7 +12,7 @@ Pozdrav, ja sam [Patrik Makaj](https://www.linkedin.com/in/patrik-makaj-238a2821
 ### Kontakt
 
 - LinkedIn: [Patrik Makaj](https://www.linkedin.com/in/patrik-makaj-238a28215/)
-- GitHub: [GitHub/patrikmaka](https://github.com/patrikmakaj)
+- GitHub: [GitHub/patrikmakaj](https://github.com/patrikmakaj)
 
 ### Tehničke Vještine
 
