@@ -2,7 +2,7 @@
 
 ### O meni
 
-Pozdrav, ja sam [Patrik Makaj](https://www.linkedin.com/in/patrik-makaj-238a28215/), strastveni iOS programer. Imam iskustva u razvoju mobilnih aplikacija pomoću Swift programskog jezika. Osim toga, zainteresiran sam za razvoj web aplikacija i umjetnu inteligenciju.
+Pozdrav, ja sam [Patrik Makaj](https://www.linkedin.com/in/patrik-makaj-238a28215/). Imam iskustva u razvoju mobilnih aplikacija pomoću Swift programskog jezika. Osim toga, zainteresiran sam za razvoj web aplikacija i umjetnu inteligenciju.
 
 ### Projekti
 
