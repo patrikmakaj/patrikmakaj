@@ -1,4 +1,7 @@
-### Hi there 👋
+### 23 y o
+### FERIT
+### Osijek
+### IOS, .NET
 
 <!--
 **patrikmakaj/patrikmakaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
