@@ -1,5 +1,6 @@
 ### 23 y o
-### FERIT
+### FERIT 
+### Information and data sciences
 ### Osijek
 ### IOS, .NET
 
