@@ -1,27 +1,43 @@
-# Hi there, I'm Patrik Makaj! 👋
+# 👋 Hi, I'm Patrik Makaj
 
 ## 👨‍💻 About Me
 
 - 🎂 **Age:** 24
-- 🏢 **Current Position:** Backend Developer at [Mono Software](https://www.mono-software.com/)
-- 🎓 **Education:** Bachelor's degree in Information and Data Sciences from [FERIT Osijek](https://www.ferit.unios.hr/)
+- 🏢 **Software Developer @ [Mono Software](https://www.mono-software.com/)**
+- 🎓 **Student @ FERIT Osijek**, smjer *Information and Data Sciences*
 - 📍 **Location:** Osijek, Croatia
+- 💻 **Primary stack:** iOS (Swift), .NET (C#), Laravel
 
-## 🔧 Technologies & Tools
+---
 
-- **Programming Languages:** C#, C, Swift
-- **Frameworks:** .NET, ASP.NET Core, Entity Framework, iOS Development (Swift)
-- **Databases:** SQL Server, SQLite
-- **Tools & Platforms:** Visual Studio, Visual Code, Rider, Xcode, Git, Docker
+## ⚒️ Tech Stack
 
-## 📈 GitHub Stats
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![Patrik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patrikmakaj&show_icons=true&theme=radical)
+---
 
-## 📫 Contact Me
+## 📁 Featured Projects
 
-- **LinkedIn:** [linkedin.com/in/patrikmakaj](https://www.linkedin.com/in/patrikmakaj)
-- **Email:** [patrikmakaj01@gmail.com](mailto:patrikmakaj01@gmail.com)
+- [📱 WeatherApp](https://github.com/patrikmakaj/WeatherApp)  
+  iOS aplikacija izrađena u SwiftUI-u koristeći MVVM arhitekturu i OpenWeather API. Podržava dark/light mode i lokalnu pohranu podataka.
+
+- [📚 BookShop](https://github.com/patrikmakaj/BookShop)  
+  ASP.NET Core MVC web aplikacija za upravljanje knjižarom – uključuje prikaz knjiga, dodavanje, uređivanje i korisničke role.
+
+- [🎬 Shows App](https://github.com/patrikmakaj/shows-app)  
+  Web aplikacija za pregled serija i ocjenjivanje epizoda, izrađena u Laravelu i povezana s vanjskim API-jem.
+
+---
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/patrikmakaj)
+- [GitHub](https://github.com/patrikmakaj)
+
 
 
 <!--
