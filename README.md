@@ -6,7 +6,7 @@
 - 🏢 **Software Developer @ [Mono Software](https://www.mono-software.com/)**
 - 🎓 **Student @ FERIT Osijek**, smjer *Information and Data Sciences*
 - 📍 **Location:** Osijek, Croatia
-- 💻 **Primary stack:** iOS (Swift), .NET (C#), Laravel
+- 💻 **Primary stack:** .NET (C#), iOS (Swift)
 
 ---
 
