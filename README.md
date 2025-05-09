@@ -4,7 +4,7 @@
 
 - 🎂 **Age:** 24
 - 🏢 **Software Developer @ [Mono Software](https://www.mono-software.com/)**
-- 🎓 **Student @ FERIT Osijek**, smjer *Information and Data Sciences*
+- 🎓 **Student @ FERIT Osijek**, *Information and Data Sciences*
 - 📍 **Location:** Osijek, Croatia
 - 💻 **Primary stack:** .NET (C#), iOS (Swift)
 
